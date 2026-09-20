@@ -85,4 +85,4 @@ Building practical cybersecurity projects while developing strong foundations in
 
 <p align="center">
   <sub>Cybersecurity • Defensive Security • Continuous Learning</sub>
-</p>
+</p> 
