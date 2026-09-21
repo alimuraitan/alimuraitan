@@ -1,6 +1,6 @@
 # Ali Bin Muraitan
 
-### Cybersecurity Student | SOC & Defensive Security
+### Cybersecurity Student | SOC & Defensive Security | CTF
 
 Cybersecurity student focused on Security Operations, defensive security, threat detection, and practical security engineering.
 
