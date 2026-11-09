@@ -8,8 +8,8 @@ I’m a cybersecurity engineering student at the University of Science and Techn
 
 | Project | Status | Overview |
 | --- | --- | --- |
-| **4L1-Check** | Personal project | A Python and Flask tool for web security testing. |
-| **CYS IDEA** | Earlier project | A Laravel app for organizing lectures, daily tasks, and exam schedules. |
+| **[4L1-Check](https://github.com/alimuraitan/4l1-check)** | Personal project | A local Python and Flask tool for web security testing in authorized labs. |
+| **[CYS IDEA](https://github.com/alimuraitan/cys-idea-planner)** | Independent project | An Arabic student planner built with Laravel and Blade for lectures, tasks, and exams. |
 | **LLMGuard** | Team graduation project in development | A platform we’re building to assess large language models for risks such as prompt injection, jailbreaks, and data leakage. |
 | **CyberSpace** | Personal project in development | An Arabic cybersecurity learning app using Flutter, Dart, and Material 3, designed around practical exercises and CTF challenges. |
 
