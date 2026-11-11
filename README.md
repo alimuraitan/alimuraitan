@@ -22,7 +22,7 @@ I’m a cybersecurity engineering student at the University of Science and Techn
 
 | Issuer | Course | Issued | Certificate image |
 | --- | --- | --- | --- |
-| TCM Security | Security Operations (SOC) 101 | Mar 2026 | <a href="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/soc-101.jpg"><img src="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/soc-101.jpg" width="144" alt="Security Operations (SOC) 101 certificate"></a> |
+| TCM Security | Security Operations (SOC) 101 | Mar 2026 | <a href="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/soc-101-complete.jpg"><img src="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/soc-101-complete.jpg" width="144" alt="Security Operations (SOC) 101 certificate"></a> |
 | TCM Security | Security Operations (SOC) 201 | Apr 2026 | <a href="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/soc-201.jpg"><img src="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/soc-201.jpg" width="144" alt="Security Operations (SOC) 201 certificate"></a> |
 | TCM Security | Linux 100: Fundamentals | Apr 2026 | <a href="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/linux-100.jpg"><img src="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/linux-100.jpg" width="144" alt="Linux 100: Fundamentals certificate"></a> |
 | TCM Security | Linux 101 | Apr 2026 | <a href="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/linux-101.jpg"><img src="https://raw.githubusercontent.com/alimuraitan/alimuraitan/main/certificates/linux-101.jpg" width="144" alt="Linux 101 certificate"></a> |
